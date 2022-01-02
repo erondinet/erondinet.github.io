@@ -1,0 +1,13 @@
+body{
+	background-color: dodgerblue;
+}
+h1{
+	border-style: dashed;
+	color: red;
+}
+h2{
+	text-transform: capitalize;
+	border-style: groove;
+	color: wheat;
+	font-family: serif;
+}
