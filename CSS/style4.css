@@ -1,0 +1,12 @@
+body{
+	background-color: yellow;
+}
+h1{
+	border-style: outset;
+	color: blue;
+}
+h2{
+	font-family: inherit;
+	border-style: double;
+	color: red;
+}
